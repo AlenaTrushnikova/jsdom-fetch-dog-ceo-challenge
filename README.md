@@ -1,6 +1,6 @@
 # Fetch Dog CEO Challenge
 
-## Challenge 1
+## Challenge 1 -- DONE
 
 This repository includes an `index.html` file that loads an `index.js` file.
 
@@ -17,7 +17,7 @@ Add JavaScript so that:
 
 ---
 
-## Challenge 2
+## Challenge 2 -- DONE
 
 ```js
 const breedUrl = 'https://dog.ceo/api/breeds/list/all'
@@ -30,7 +30,7 @@ After the first challenge is completed, add JavaScript so that:
 
 ---
 
-## Challenge 3
+## Challenge 3 -- DONE
 
 Once all of the breeds are rendered in the `<ul>`, add JavaScript so that the
 font color of a particular `<li>` changes _on click_. This can be a color of
@@ -41,7 +41,7 @@ change.
 
 ---
 
-## Challenge 4
+## Challenge 4 -- DONE
 
 Once we are able to load _all_ of the dog breeds onto the page, add JavaScript
 so that the user can filter breeds that start with a particular letter using a
